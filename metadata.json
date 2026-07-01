@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "An interactive, elegant Student Management System with advanced student analysis, dynamic grade calculations, beautiful dark/light themes, and persistent record keeping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
